@@ -10,7 +10,7 @@ setup(
     description = 'Tree extension for the mkdocs documentation system.',
     license = 'LGPL',
     keywords = '',
-    url = 'https://github.com/erichulser/mkdocs_autodoc',
+    url = 'https://github.com/erichulser/mkdocs_tree',
     include_package_data=True,
     packages = find_packages(),
     install_requires = ['mkdocs'],
